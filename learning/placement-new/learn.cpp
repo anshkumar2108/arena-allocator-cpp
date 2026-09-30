@@ -76,6 +76,4 @@ int main()
     m=new(buffer1) Motor(6000);
     std::cout<<m->rpm<<std::endl;
     m->~Motor();
-
-
 }   
