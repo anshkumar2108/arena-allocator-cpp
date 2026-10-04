@@ -1,1 +1,9 @@
 notes/
+# Compiled binaries
+test_arena
+test_pool
+*.o
+*.out
+
+# Build directories
+build/
